@@ -1,0 +1,3 @@
+<?
+$permissions_checks["ÊÚáíÞÇÊ ÇáãäÊÌÇÊ"]  = "products_comments" ;
+?>
